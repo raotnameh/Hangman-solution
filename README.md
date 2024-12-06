@@ -1,4 +1,4 @@
-## Submission by Hemant Yadav (hemantya@iiitd.ac.in)
+## Submission by Hemant Yadav
 * Trexquant Hangman Challenge Registration - Quantitative Researcher - Early Career - India - HEMANT YADAV. 
 * Accuracy achived 53%. 
 
